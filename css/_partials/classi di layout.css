@@ -1,0 +1,15 @@
+header{
+    background-color: #2C3E50;
+}
+
+main section:nth-child(odd) {
+    background-color: #1ABC9C;
+}
+
+main section:empty {
+    height: 100px;
+}
+
+.me-portfolio-rows > div > .content {
+    background-color: yellow;
+}
